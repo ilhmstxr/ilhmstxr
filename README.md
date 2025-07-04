@@ -54,7 +54,7 @@
 
 <div gap-bottom: "5px">
     <h3>Robotics:</h3>
-    <img src="https://skillicons.dev/icons?i=arduino,cpp">
+    <img src="https://skillicons.dev/icons?i=arduino,cpp,ros">
 </div>
 
 
