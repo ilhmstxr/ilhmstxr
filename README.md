@@ -9,16 +9,16 @@
 ## 🌐 Socials:
 
 <div align="left">
-  <!-- <a href="mailto:hafidz10032005@gmail.com" target="_blank">
+  <a href="mailto:ilhambintanghuh30332@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail">
   </a>
-  <a href="https://linkedin.com/in/hafidzrdwn" target="_blank">
+  <a href="https://linkedin.com/in/ilhmstxr" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin">
   </a>
-  <a href="https://instagram.com/hafidzrdwn" target="_blank">
+  <a href="https://instagram.com/ilh_mstr" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram">
   </a>
-  <a href="https://twitter.com/hafidzrdwn" target="_blank">
+  <!-- <a href="https://twitter.com/hafidzrdwn" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter">
   </a> -->
 </div>
@@ -27,33 +27,40 @@
 
 <div margin-bottom:"5px">
     <h3>Languages:</h3>
-    <img src="https://skillicons.dev/icons?i=php,js,ts,java,py">
+    <img src="https://skillicons.dev/icons?i=php,js,java,py,cpp">
 </div>
 
 <div margin-bottom:"5px">
     <h3>Front-end:</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,sass,jquery,vue,nuxtjs,npm,yarn,vite">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,jquery,vue,npm,vite">
 </div>
 
 <div gap-bottom: "5px">
     <h3>Back-end:</h3>
-    <img src="https://skillicons.dev/icons?i=laravel,nodejs,express">
+    <img src="https://skillicons.dev/icons?i=laravel,nodejs">
 </div>
+
+
+<div gap-bottom: "5px">
+    <h3>Mobile:</h3>
+    <img src="https://skillicons.dev/icons?i=kotlin,flutter">
+</div>
+
 
 <div gap-bottom: "5px">
     <h3>Databases:</h3>
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase,mongodb">
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb">
 </div>
 
 <div gap-bottom: "5px">
     <h3>Tools:</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,postman,androidstudio,notion,phpstorm">
+    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,postman,androidstudio,notion">
 </div>
 
-<div gap-bottom: "5px">
+<!-- <div gap-bottom: "5px">
     <h3>Others:</h3>
     <img src="https://skillicons.dev/icons?i=netlify,vercel">
-</div>
+</div> -->
 
 <hr />
 
