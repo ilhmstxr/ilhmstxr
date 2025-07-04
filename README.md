@@ -2,9 +2,9 @@
 
 # 💫 About Me:
 
-<!-- 🏫 Undergraduate Student of Information System (4th Semester)<br>
-🎨 Frontend Web Developer (JavaScript)<br>💻 Backend Web Developer (PHP)<br><br>
-👯 I’m open to collaborate on Web App Project<br>🌱 I’m currently learning React.js & Android Ecosystems -->
+🏫 Undergraduate Student of Information System (4th Semester)<br>
+🎨 Frontend Web Developer <br>💻 Backend Web Developer (Laravel)<br>Mobile Developer (Kotlin)<br><br>
+👯 I’m open to collaborate on Web App / Mobile App Projeect<br>🌱 I’m currently learning React.js, Flutter & cpp
 
 ## 🌐 Socials:
 
