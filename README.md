@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Hafidz Ridwan</h1>
+<h1 align="center">Hi 👋, I'm Ilham Bintang</h1>
 
 # 💫 About Me:
 
-🏫 Undergraduate Student of Information System (4th Semester)<br>
+<!-- 🏫 Undergraduate Student of Information System (4th Semester)<br>
 🎨 Frontend Web Developer (JavaScript)<br>💻 Backend Web Developer (PHP)<br><br>
-👯 I’m open to collaborate on Web App Project<br>🌱 I’m currently learning React.js & Android Ecosystems
+👯 I’m open to collaborate on Web App Project<br>🌱 I’m currently learning React.js & Android Ecosystems -->
 
 ## 🌐 Socials:
 
 <div align="left">
-  <a href="mailto:hafidz10032005@gmail.com" target="_blank">
+  <!-- <a href="mailto:hafidz10032005@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail">
   </a>
   <a href="https://linkedin.com/in/hafidzrdwn" target="_blank">
@@ -20,7 +20,7 @@
   </a>
   <a href="https://twitter.com/hafidzrdwn" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter">
-  </a>
+  </a> -->
 </div>
 
 ## 💻 Technology & Tools:
