@@ -4,7 +4,7 @@
 
 🏫 Undergraduate Student of Information System (4th Semester)<br>
 🎨 Frontend Web Developer <br>💻 Backend Web Developer (Laravel)<br>Mobile Developer (Kotlin)<br><br>
-👯 I’m open to collaborate on Web App / Mobile App Projeect<br>🌱 I’m currently learning React.js, Flutter & cpp
+👯 I’m open to collaborate on Web App / Mobile App Projeect<br>🌱 I’m currently learning React Native, Flutter & Robotics
 
 ## 🌐 Socials:
 
@@ -43,7 +43,7 @@
 
 <div gap-bottom: "5px">
     <h3>Mobile:</h3>
-    <img src="https://skillicons.dev/icons?i=kotlin,flutter">
+    <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart">
 </div>
 
 
