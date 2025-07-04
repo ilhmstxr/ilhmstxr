@@ -53,6 +53,12 @@
 </div>
 
 <div gap-bottom: "5px">
+    <h3>Robotics:</h3>
+    <img src="https://skillicons.dev/icons?i=arduino,cpp">
+</div>
+
+
+<div gap-bottom: "5px">
     <h3>Tools:</h3>
     <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,postman,androidstudio,notion">
 </div>
